@@ -5,3 +5,24 @@
 .sec-2 {
     padding: 20px;
 }
+
+body {
+    display: flex;
+}
+
+.container-xxll {
+    flex-direction: column;
+    width: 200px;
+    height: 750px;
+    margin: 10px 25px 0px 25px;
+    
+    
+}
+
+.navbar-toggler {
+    margin: 10px;
+}
+
+.vov {
+ display: flex;   
+}
