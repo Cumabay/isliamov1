@@ -5,3 +5,5 @@ console.log(tableekle);
 var exe = 5;
 
 const q = 1;
+
+let
