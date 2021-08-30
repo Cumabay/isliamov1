@@ -1,0 +1,4 @@
+Description of project.
+This is electron-react application.
+Use mysql database.
+Also use some other libraries.
